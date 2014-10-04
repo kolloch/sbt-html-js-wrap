@@ -1,5 +1,7 @@
 sbtPlugin := true
 
+homepage := Some(url("https://github.com/kolloch/sbt-html-js-wrap"))
+
 organization := "net.eigenvalue"
 
 name := "sbt-html-js-wrap"
