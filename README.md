@@ -3,8 +3,8 @@ sbt-html-js-wrap
 
 [sbt-web](https://github.com/sbt/sbt-web) plugin for converting HTML files to JavaScript files wrapping the HTML.
 
-In combination with [sbt-uglify](https://github.com/sbt/sbt-uglify) to combine all project JavaScript- and
-Template-Files to one big JavaScript-file.
+You can use this plugin in combination with [sbt-uglify](https://github.com/sbt/sbt-uglify) to combine all project 
+JavaScript and template files to one big file.
 
 [![Build Status](https://travis-ci.org/kolloch/sbt-html-js-wrap.png?branch=master)](https://travis-ci.org/kolloch/sbt-html-js-wrap)
 
