@@ -1,0 +1,4 @@
+> webStage
+
+$ exists target/web/htmlJsWrap/some.html.js
+-$ exists target/web/htmlJsWrap/vendor/other.html.js

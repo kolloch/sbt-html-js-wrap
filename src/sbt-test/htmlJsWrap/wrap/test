@@ -1,0 +1,5 @@
+> webStage
+
+$ exists target/web/htmlJsWrap/some.html.js
+
+> check
