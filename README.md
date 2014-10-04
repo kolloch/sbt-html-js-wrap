@@ -16,11 +16,6 @@ Add the plugin to `project/plugins.sbt`. For example:
 ```scala
 resolvers += "Typesafe repository" at "http://repo.typesafe.com/typesafe/releases/"
 
-resolvers += Resolver.url(
-  "Peter Kolloch's sbt-plugins",
-  url("http://dl.bintray.com/kolloch/sbt-plugins/"))(
-    Resolver.ivyStylePatterns)
-
 addSbtPlugin("net.eigenvalue" % "sbt-html-js-wrap" % "1.0.0")
 ```
 
